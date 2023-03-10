@@ -1,6 +1,6 @@
 ---
 url: https://blog.csdn.net/ZeroChia/article/details/90749937
-title:  Pycharm 使用 Anaconda 管理虚拟环境 Python 版本_ZeroChia 的博客 - CSDN 博客_pycharm 用 anaconda 的环境
+title: Anaconda环境
 date: 2022-07-08 15:24:52
 tag: 
 summary: 
